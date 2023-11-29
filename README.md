@@ -8,5 +8,5 @@ Here are steps:
    
 ![image](https://github.com/ism-courses/OOP-Mini-Project-9/assets/152141243/c6486901-5fd8-4657-88f7-12f27b5f4ec6)
 
-6. Create an instance of **ScienceProfessor** and assign this instance to a variable named **my_science_professor**. You can pass any arguments for its attributes.
+5. Create an instance of **ScienceProfessor** and assign this instance to a variable named **my_science_professor**. You can pass any arguments for its attributes.
 Call **greet_students()** method from **my_science_professor**.
