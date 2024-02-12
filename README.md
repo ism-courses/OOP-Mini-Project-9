@@ -1,4 +1,4 @@
-The Boss wants you to implement method inheritance for a Professor class defined in this repository.
+The company wants you to implement method inheritance for a Professor class defined in this repository.
 
 Here are steps:
 1. Define a **ScienceProfessor** class.
